@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ryad</title>
+
+</head>
+<body>
+<h1 id="demo">ryad</h1>
+<script>
+document.getElementById("demo").innerHTML=hello world;
+</script>
